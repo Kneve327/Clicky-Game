@@ -1,0 +1,17 @@
+.footerStuff {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border: black;
+    font-size: 24px;
+}
+
+footer {
+    background: black;
+    border-top: rgb(211,4,24) 20px solid;
+}
+
+.footerImage {
+height: 35px;
+width: 45px;
+padding-bottom: 8px;
+}

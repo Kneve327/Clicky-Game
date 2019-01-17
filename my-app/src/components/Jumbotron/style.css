@@ -1,0 +1,22 @@
+.jumbotron {
+    background-color: rgb(211,4,24);
+    color: White;
+    text-align: center;
+    /* text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; */
+    margin-bottom: 0px;
+    /* font-family: 'Anton', sans-serif; */
+    font-family: 'Bowlby One SC', cursive;
+}
+
+.jumbotronContainer {
+    background-color: rgb(211,4,24);
+    border: white 5px solid;
+    width: 60%;
+    padding: 40px 0px 30px 0px;
+    font-size: 75px;
+    margin-left: 20%;
+}
+
+.display-4 {
+    font-size: 100px !important; 
+}
