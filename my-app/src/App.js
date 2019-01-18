@@ -1,5 +1,5 @@
 import React from "react";
-// import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import Wrapper from "./components/Wrapper";
 import VillainCard from "./components/VillainCard";
@@ -12,7 +12,7 @@ function App() {
  return (
     <div>
 
-        {/* <Navbar /> */}
+        <Navbar />
 
         <Jumbotron />
 
